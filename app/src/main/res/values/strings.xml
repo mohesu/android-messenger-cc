@@ -2,7 +2,7 @@
     <string name="app_name">Messenger</string>
 
     <!--Configs    -->
-    <string name="sender_id"></string>
+    <string name="sender_id">738002577434</string>
 
     <!--LoginActivity-->
     <string name="user_login">Login as</string>

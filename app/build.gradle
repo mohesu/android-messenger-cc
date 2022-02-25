@@ -111,4 +111,4 @@ private static void externalMediaComponents(configuration) {
     configuration.implementation 'com.github.chrisbanes:PhotoView:2.2.0'
 }
 
-//apply plugin: 'com.google.gms.google-services'
+apply plugin: 'com.google.gms.google-services'

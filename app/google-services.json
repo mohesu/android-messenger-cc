@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "738002577434",
+    "project_id": "test-dd099",
+    "storage_bucket": "test-dd099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738002577434:android:7c75ca4aaecf0b2cf109a3",
+        "android_client_info": {
+          "package_name": "com.connectycube.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738002577434-u4iiob6nkl1a23i5d9mcinp4425ise6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZHouESBb1wsfTbynakSRcjcjeNKaJhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738002577434-u4iiob6nkl1a23i5d9mcinp4425ise6u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738002577434-94oie74ra93a4gh0o1m3sub8ptt9sk2c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mohesu.hotel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738002577434:android:1bfc0bceb43a846bf109a3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_appss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738002577434-u4iiob6nkl1a23i5d9mcinp4425ise6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZHouESBb1wsfTbynakSRcjcjeNKaJhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738002577434-u4iiob6nkl1a23i5d9mcinp4425ise6u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738002577434-94oie74ra93a4gh0o1m3sub8ptt9sk2c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mohesu.hotel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738002577434:android:508e9a6a0f58b2bbf109a3",
+        "android_client_info": {
+          "package_name": "com.mohesu.hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738002577434-u4iiob6nkl1a23i5d9mcinp4425ise6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZHouESBb1wsfTbynakSRcjcjeNKaJhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738002577434-u4iiob6nkl1a23i5d9mcinp4425ise6u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738002577434-94oie74ra93a4gh0o1m3sub8ptt9sk2c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mohesu.hotel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
